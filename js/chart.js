@@ -29,6 +29,6 @@ window.onload = function () {
     });
     setTimeout(function () {
         chart.render();
-    }, 1000);
+    }, 1500);
 
 };
